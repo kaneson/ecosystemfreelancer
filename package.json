@@ -1,0 +1,22 @@
+{
+  "name": "ecosystem-freelancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaneson/ecosystemfreelancer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaneson/ecosystemfreelancer/issues"
+  },
+  "homepage": "https://github.com/kaneson/ecosystemfreelancer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
